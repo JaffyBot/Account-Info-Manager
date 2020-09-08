@@ -1,5 +1,7 @@
 # Account-Info-Manager
 
+![](Sample_Images/Main%20Menu.png)
+
 A Java program with GUI which stores and manages personal account information. 
 
 **Description**. Having too many personal accounts & passwords and needing some place to store the information? Account Info Manager is a Java program built to serve as a convenient and a safe library/tool that stores and manages personal account information. In the program, users are prompted to give a label to each of their personal account. And the labels along with their associated account information (i.e., username and password) can be saved in the program library. 
@@ -12,5 +14,7 @@ A Java program with GUI which stores and manages personal account information.
 
 
 **Sample Images**.
-
-![](Sample_Images/Main%20Menu.png)
+![](Sample_Images/New%20Account.png)
+![](Sample_Images/Select%20Account.png)
+![](Sample_Images/Look%20Up%20Account.png)
+![](Sample_Images/Update%20Account.png)
