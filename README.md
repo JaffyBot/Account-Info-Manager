@@ -13,4 +13,4 @@ A Java program with GUI which stores and manages personal account information.
 
 **Sample Images**.
 
-![](Sample_Images/Main-Menu.png)
+![](Sample_Images/Main_Menu.png)
