@@ -13,6 +13,7 @@ A Java program with GUI which stores and manages personal account information.
 4. *Auto-save* - updated account information is automatically saved whenever the program is terminated (by closing the window).
 
 **Sample Images**.
+
 ![](Sample_Images/New%20Account.png)
 ![](Sample_Images/Select%20Account.png)
 ![](Sample_Images/Look%20Up%20Account.png)
