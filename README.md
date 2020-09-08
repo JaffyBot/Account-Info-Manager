@@ -10,7 +10,7 @@ A Java program with GUI which stores and manages personal account information.
 1. *Information Protection* - Data entered by users through the program is encrypted when saving locally. This feature ensures account information security.
 2. *GUI* - The program is user-friendly, which it is built with a graphical user interface that enables easy interaction with the program.
 3. *Easy look-up and update* - A list of the labels saved is shown in the window. Users can easily look up an entry as well as date the account information associated with the entry.
-4. *Auto-save* - updated account information is automatically saved whenever the program is terminated (by closing the window).
+4. *Autosave* - updated account information is automatically saved whenever the program is terminated (by closing the window).
 
 **Sample Images**.
 
